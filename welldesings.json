@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "6273d9988df3af0011ba2314",
+        "isStatic": false,
+        "title": "AlexTestWell",
+        "wellId": "6273d9978df3af0011ba230e",
+        "dwtsId": null
+      },
+      {
+        "_id": "62568f6697c6f900115dd29a",
+        "isStatic": false,
+        "title": "PWP 35 2",
+        "wellId": "60490786717c1d00105a1f14",
+        "dwtsId": null
+      },
+      {
+        "_id": "6230a41193ec72001b4d3822",
+        "isStatic": false,
+        "title": "Qtest",
+        "wellId": "6230a41093ec72001b4d381d",
+        "dwtsId": null
+      }
+  ]
